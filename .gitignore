@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+__pycache__
+OUTPUTS
+env
+.vscode
+*.txt
+*.vtt
+*.webm
